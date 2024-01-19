@@ -1,0 +1,11 @@
+#floor:3
+Floor#1,#Rooms:3
+standard,101,2,25
+standard,102,3,25
+conference,103,30,5
+Floor#2,#rooms:2
+standard,201,1,25
+sweet,202,300
+Floor#3,#rooms:2
+standard,301,3,25
+sweet,302,400

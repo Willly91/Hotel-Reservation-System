@@ -1,0 +1,28 @@
+﻿Build started 22/09/2022 02:25:47 ص.
+     1>Project "H:\Material C++\HOTEL PROJECT\hotel\hotel\hotel.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(660): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(672): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(717): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(749): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(787): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(800): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(825): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(841): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(843): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(858): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(868): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(871): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(874): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(891): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(901): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(948): warning C4018: '<' : signed/unsigned mismatch
+     1>h:\material c++\hotel project\hotel\hotel\source.cpp(1119): error C2146: syntax error : missing ';' before identifier 'cout'
+     1>Done Building Project "H:\Material C++\HOTEL PROJECT\hotel\hotel\hotel.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.55
